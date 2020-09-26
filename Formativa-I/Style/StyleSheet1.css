@@ -1,0 +1,10 @@
+﻿
+.card-default {
+    opacity: 0.9;
+    margin-top: 30px;
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    top: 8px;
+    left: -1px;
+    height: 695px;
+}
